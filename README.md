@@ -7,13 +7,32 @@ Linear regression is not only effective in sales forecasting, but in all the sce
 In this project we collect the time series sales (domestic) of the Maruti Suzuki company for previous 138 months, and predict the sales for the 139th month, i.e., July 2024, based on the regression line or best fit line between the scatterplot of months vs sales. 
 
 
+
+
+
+
 <img width="748" alt="Screenshot 2024-08-04 at 9 36 01 PM" src="https://github.com/user-attachments/assets/c1efc482-c476-4445-b652-b94cc5239494">
+
+
+
+
+
 
 
 Predited sales for the 139th month
 
 
+
+
+
+
 <img width="681" alt="Screenshot 2024-08-04 at 9 35 37 PM" src="https://github.com/user-attachments/assets/aaf42405-c538-43cc-ae05-178b3ca704ed">
+
+
+
+
+
+
 
 
 Scatterplot months vs sales along with Regression Line or best fit line
