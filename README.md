@@ -6,6 +6,9 @@ The best fit line, also known as regression line, is the line which passes throu
 Linear regression is not only effective in sales forecasting, but in all the scenarios where prediction needs to be made. Its application is vast, can be used in Stock Market Forecasting, Risk Management, Health Care and Marketing.
 In this project we collect the time series sales (domestic) of the Maruti Suzuki company for previous 138 months, and predict the sales for the 139th month, i.e., July 2024, based on the regression line or best fit line between the scatterplot of months vs sales. 
 
+Output :
+
+
 
 
 
@@ -26,7 +29,15 @@ In this project we collect the time series sales (domestic) of the Maruti Suzuki
 
 
 
+
+
+
+
 Predited sales for the 139th month
+
+
+
+
 
 
 
