@@ -11,6 +11,13 @@ In this project we collect the time series sales (domestic) of the Maruti Suzuki
 
 
 
+
+
+
+
+
+
+
 <img width="748" alt="Screenshot 2024-08-04 at 9 36 01 PM" src="https://github.com/user-attachments/assets/c1efc482-c476-4445-b652-b94cc5239494">
 
 
