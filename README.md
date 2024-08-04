@@ -5,7 +5,15 @@ Linear regression is a fundamental statistical method used in Machine Learning a
 The best fit line, also known as regression line, is the line which passes through mid of the scatter plot, it minimizes the sum of the squared differences between the observed values and the values predicted by the line. This best fit line, i.e., regression line is of very significance in making predictions.
 Linear regression is not only effective in sales forecasting, but in all the scenarios where prediction needs to be made. Its application is vast, can be used in Stock Market Forecasting, Risk Management, Health Care and Marketing.
 In this project we collect the time series sales (domestic) of the Maruti Suzuki company for previous 138 months, and predict the sales for the 139th month, i.e., July 2024, based on the regression line or best fit line between the scatterplot of months vs sales. 
+
+
 <img width="748" alt="Screenshot 2024-08-04 at 9 36 01 PM" src="https://github.com/user-attachments/assets/c1efc482-c476-4445-b652-b94cc5239494">
+
+
 Predited sales for the 139th month
+
+
 <img width="681" alt="Screenshot 2024-08-04 at 9 35 37 PM" src="https://github.com/user-attachments/assets/aaf42405-c538-43cc-ae05-178b3ca704ed">
+
+
 Scatterplot months vs sales along with Regression Line or best fit line
